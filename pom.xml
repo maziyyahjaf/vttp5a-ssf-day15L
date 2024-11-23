@@ -58,11 +58,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- slide 19-->
 		<dependency>
     		<groupId>redis.clients</groupId>
     		<artifactId>jedis</artifactId>
     		<version>5.2.0</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>
